@@ -62,6 +62,7 @@ This file is created automatically when the application saves data.
 
 ## 👩🏽‍💻 Developer
 
-Created by Victoria tinotenda Maedza.
+Created by VICTORIA TINOTENDA MAEDZA
 
-Built with 💕 and Python 🐍
+
+
